@@ -140,18 +140,10 @@ If you find this repository useful, we would appreciate it if you cited it in yo
 @InProceedings{hyun2026split,
 author="Hyun, Jongyeop
 and Kim, Hyounghun",
-editor="Favaro, Paolo
-and Kukelova, Zuzana
-and Maki, Atsuto
-and Rohrbach, Anna
-and Schindler, Konrad
-and Tombari, Federico",
 title="SPLIT: Training-Free AI-Generated and Partially Edited Video Detection via Spatial Patch-Level Incoherence and Temporal Roughness",
 booktitle="Computer Vision -- ECCV 2026",
 year="2026",
 publisher="Springer Nature Switzerland",
-address="Cham",
-pages="504--522",
-isbn="978-3-032-37429-5"
+pages="504--522"
 }
 ```
