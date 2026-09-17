@@ -137,13 +137,21 @@ We thank the authors of [D3](https://github.com/Zig-HS/D3) and [DeMamba](https:/
 If you find this repository useful, we would appreciate it if you cited it in your research:
 
 ```bibtex
-@misc{hyun2026splittrainingfreeaigeneratedpartially,
-      title={SPLIT: Training-Free AI-Generated and Partially Edited Video Detection via Spatial Patch-Level Incoherence and Temporal Roughness}, 
-      author={Jongyeop Hyun and Hyounghun Kim},
-      year={2026},
-      eprint={2607.02886},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2607.02886}, 
+@InProceedings{hyun2026split,
+author="Hyun, Jongyeop
+and Kim, Hyounghun",
+editor="Favaro, Paolo
+and Kukelova, Zuzana
+and Maki, Atsuto
+and Rohrbach, Anna
+and Schindler, Konrad
+and Tombari, Federico",
+title="SPLIT: Training-Free AI-Generated and Partially Edited Video Detection via Spatial Patch-Level Incoherence and Temporal Roughness",
+booktitle="Computer Vision -- ECCV 2026",
+year="2026",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="504--522",
+isbn="978-3-032-37429-5"
 }
 ```
